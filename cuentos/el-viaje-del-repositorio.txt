@@ -1,0 +1,27 @@
+Había una vez una programadora apasionado llamado Marta, que estaba decidida 
+a dominar Git y utilizarlo para su proyecto más ambicioso hasta la fecha: la
+creación de un juego de aventuras. Sin embargo, había un problema: Marta 
+nunca antes había usado Git y se encontraba en un mar de confusión.
+
+Decidió trazar un plan. Imaginó que su proyecto era un viaje heroico, y 
+cada paso en el camino representaba un nuevo concepto de Git que debía 
+aprender. Como una protagonista valiente, se embarcó en su aventura.
+
+El primer paso fue crear un repositorio, que Marta comparó con establecer 
+el campamento base de su expedición. A medida que avanzaba, aprendió sobre las confirmaciones, que eran como marcadores de hitos en su camino. Cada vez que hacía un progreso significativo en su proyecto, creaba una confirmación para recordar dónde estaba en su viaje.
+
+Luego, Marta enfrentó el desafío de las ramas. Decidió que las ramas eran 
+como senderos secundarios en su aventura. Podía explorar nuevas ideas sin temor a perder el rumbo principal. Si una rama no resultaba como esperaba, podía volver al sendero principal y probar otra dirección.
+
+Con el tiempo, Marta se encontró colaborando con otros aventureros en su 
+proyecto. Utilizó comandos de fusión para unir sus esfuerzos, lo que comparó
+ con la unión de fuerzas para vencer a un enemigo formidable.
+
+Al final de su viaje, Marta había completado su juego de aventuras y se 
+sintió orgullosa de su logro. Pero lo más valioso no era solo el juego en 
+sí, sino la confianza que había ganado en el uso de Git. Se dio cuenta de 
+que, al igual que en una historia épica, había superado obstáculos y desafíos para convertirse en una maestra de su herramienta.
+
+Y así, Marta continuó su camino como una programadora intrépida, aplicando 
+las lecciones de Git a sus futuros proyectos y recordando que, al igual que 
+en una aventura, cada desafío era una oportunidad para crecer y aprender.
