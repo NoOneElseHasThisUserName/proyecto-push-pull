@@ -1,0 +1,32 @@
+Había una vez un joven programador llamado Lucas que estaba ansioso por 
+aprender Git, la misteriosa y poderosa herramienta de control de versiones. 
+Aunque había oído hablar de sus capacidades para rastrear cambios y colaborar
+en proyectos, se sentía abrumado por la cantidad de comandos y conceptos 
+nuevos que debía aprender.
+
+Decidió buscar la ayuda del anciano programador del pueblo, Don Ernesto, 
+quien tenía una gran experiencia en el arte de la programación y el uso 
+de Git. Lucas se acercó a Don Ernesto con humildad y le pidió que lo 
+ayudara a comprender Git.
+
+
+Don Ernesto sonrió amablemente y asintió. Comenzaron a reunirse cada tarde 
+en la pequeña biblioteca del pueblo. Don Ernesto explicaba pacientemente 
+los conceptos detrás de Git, cómo funcionaban los repositorios, las 
+confirmaciones y las ramas. Utilizaba metáforas simples, comparando los 
+repositorios con libros y las confirmaciones con páginas de una historia.
+
+Lucas se dedicó con diligencia a sus estudios, practicando los comandos que 
+Don Ernesto le enseñaba. Con el tiempo, empezó a sentirse más cómodo con Git. Empezó a usarlo en sus proyectos personales y se maravilló de lo que podía lograr: deshacer cambios, colaborar con otros programadores sin temor a perder trabajo y organizar sus proyectos de manera más eficiente.
+
+Un día, Don Ernesto le dijo a Lucas que ya era hora de que volara por sí 
+mismo. Le regaló un pequeño libro sobre Git que había escrito y le dijo: 
+"Ahora eres el guardián de esta sabiduría. Compártela y ayuda a otros como 
+yo te ayudé a ti". Lucas asintió con gratitud.
+
+Con el tiempo, Lucas se convirtió en un experto en Git. Ayudó a sus colegas 
+en el trabajo, escribió tutoriales en línea y dio charlas en conferencias. 
+Pero siempre recordaba las lecciones de paciencia y amabilidad que Don 
+Ernesto le había enseñado. Así, el legado de conocimiento de Git se propagó,
+recordándole a todos que, al igual que con el código, el aprendizaje es una
+colaboración constante.
